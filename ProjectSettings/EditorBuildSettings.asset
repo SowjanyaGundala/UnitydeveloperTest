@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/VoiceCommand.unity
+    guid: e1739a19091f02542b19053a6a973261
+  - enabled: 1
+    path: Assets/Scenes/GyroScopeAccess.unity
+    guid: af0401372cc27864dbe7851f858fe4b9
+  m_configObjects: {}
